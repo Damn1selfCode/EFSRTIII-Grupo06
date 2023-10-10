@@ -1,0 +1,11 @@
+E:\CIBERTEC_Proyecto_EFSRT3\EFSRTIII-Grupo06\CODIGO_FUENTE\SistemaFacturacion.Utilidades\bin\Debug\net7.0\SistemaFacturacion.Utilidades.deps.json
+E:\CIBERTEC_Proyecto_EFSRT3\EFSRTIII-Grupo06\CODIGO_FUENTE\SistemaFacturacion.Utilidades\bin\Debug\net7.0\SistemaFacturacion.Utilidades.dll
+E:\CIBERTEC_Proyecto_EFSRT3\EFSRTIII-Grupo06\CODIGO_FUENTE\SistemaFacturacion.Utilidades\bin\Debug\net7.0\SistemaFacturacion.Utilidades.pdb
+E:\CIBERTEC_Proyecto_EFSRT3\EFSRTIII-Grupo06\CODIGO_FUENTE\SistemaFacturacion.Utilidades\obj\Debug\net7.0\SistemaFacturacion.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\CIBERTEC_Proyecto_EFSRT3\EFSRTIII-Grupo06\CODIGO_FUENTE\SistemaFacturacion.Utilidades\obj\Debug\net7.0\SistemaFacturacion.Utilidades.AssemblyInfoInputs.cache
+E:\CIBERTEC_Proyecto_EFSRT3\EFSRTIII-Grupo06\CODIGO_FUENTE\SistemaFacturacion.Utilidades\obj\Debug\net7.0\SistemaFacturacion.Utilidades.AssemblyInfo.cs
+E:\CIBERTEC_Proyecto_EFSRT3\EFSRTIII-Grupo06\CODIGO_FUENTE\SistemaFacturacion.Utilidades\obj\Debug\net7.0\SistemaFacturacion.Utilidades.csproj.CoreCompileInputs.cache
+E:\CIBERTEC_Proyecto_EFSRT3\EFSRTIII-Grupo06\CODIGO_FUENTE\SistemaFacturacion.Utilidades\obj\Debug\net7.0\SistemaFacturacion.Utilidades.dll
+E:\CIBERTEC_Proyecto_EFSRT3\EFSRTIII-Grupo06\CODIGO_FUENTE\SistemaFacturacion.Utilidades\obj\Debug\net7.0\refint\SistemaFacturacion.Utilidades.dll
+E:\CIBERTEC_Proyecto_EFSRT3\EFSRTIII-Grupo06\CODIGO_FUENTE\SistemaFacturacion.Utilidades\obj\Debug\net7.0\SistemaFacturacion.Utilidades.pdb
+E:\CIBERTEC_Proyecto_EFSRT3\EFSRTIII-Grupo06\CODIGO_FUENTE\SistemaFacturacion.Utilidades\obj\Debug\net7.0\ref\SistemaFacturacion.Utilidades.dll
