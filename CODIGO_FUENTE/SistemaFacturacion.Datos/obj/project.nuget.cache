@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lV3qY+rxkIYR8vhdj0F/CLZqT+O8mPU9yFt0ynk8fFS72tkbEW4bMppjouPOB1vx+icPON+Mrta16UlhVMq4KQ==",
+  "dgSpecHash": "UnwvCHq06lR0NWFfPcwORDqzL9RRTXAEoUXU9Ul7r8/E1A/kAdYlOcHyGEKTTYA8KmYqXEmYp6U3UKaWeQWNRQ==",
   "success": true,
-  "projectFilePath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Datos\\SistemaFacturacion.Datos.csproj",
+  "projectFilePath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Datos\\SistemaFacturacion.Datos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DAMN1SELF\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\DAMN1SELF\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5vxsJkQlrqbLyOYM8/M9DBX6oxIom6wutu75lgJ3r2tOS+H7zn4MsfW3CwAla/dd/X9c1ahSfkm3sgJoAExMKQ==",
+  "dgSpecHash": "Tl6nWvnqi6nhaDvWJXjMEmOWqWaNVwNqSp/K0XOeyUwtWVnhXFSzHwABOdOXk1VrQFfzcFm1gFbVkPy8oVDuIA==",
   "success": true,
-  "projectFilePath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj",
+  "projectFilePath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DAMN1SELF\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\DAMN1SELF\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.11\\microsoft.aspnetcore.cryptography.internal.7.0.11.nupkg.sha512",

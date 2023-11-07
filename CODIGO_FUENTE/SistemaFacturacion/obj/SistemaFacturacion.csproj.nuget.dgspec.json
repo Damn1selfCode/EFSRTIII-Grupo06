@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion\\SistemaFacturacion.csproj": {}
+    "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion\\SistemaFacturacion.csproj": {}
   },
   "projects": {
-    "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Controlador\\SistemaFacturacion.Controlador.csproj": {
+    "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Controlador\\SistemaFacturacion.Controlador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Controlador\\SistemaFacturacion.Controlador.csproj",
+        "projectUniqueName": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Controlador\\SistemaFacturacion.Controlador.csproj",
         "projectName": "SistemaFacturacion.Controlador",
-        "projectPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Controlador\\SistemaFacturacion.Controlador.csproj",
+        "projectPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Controlador\\SistemaFacturacion.Controlador.csproj",
         "packagesPath": "C:\\Users\\DAMN1SELF\\.nuget\\packages\\",
-        "outputPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Controlador\\obj\\",
+        "outputPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Controlador\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Datos\\SistemaFacturacion.Datos.csproj": {
-                "projectPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Datos\\SistemaFacturacion.Datos.csproj"
+              "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Datos\\SistemaFacturacion.Datos.csproj": {
+                "projectPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Datos\\SistemaFacturacion.Datos.csproj"
               },
-              "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj": {
-                "projectPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj"
+              "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj": {
+                "projectPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj"
               },
-              "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj": {
-                "projectPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj"
+              "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj": {
+                "projectPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj"
               }
             }
           }
@@ -70,18 +70,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Datos\\SistemaFacturacion.Datos.csproj": {
+    "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Datos\\SistemaFacturacion.Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Datos\\SistemaFacturacion.Datos.csproj",
+        "projectUniqueName": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Datos\\SistemaFacturacion.Datos.csproj",
         "projectName": "SistemaFacturacion.Datos",
-        "projectPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Datos\\SistemaFacturacion.Datos.csproj",
+        "projectPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Datos\\SistemaFacturacion.Datos.csproj",
         "packagesPath": "C:\\Users\\DAMN1SELF\\.nuget\\packages\\",
-        "outputPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Datos\\obj\\",
+        "outputPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Datos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -103,11 +103,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj": {
-                "projectPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj"
+              "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj": {
+                "projectPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj"
               },
-              "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj": {
-                "projectPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj"
+              "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj": {
+                "projectPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj"
               }
             }
           }
@@ -161,18 +161,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj": {
+    "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj",
+        "projectUniqueName": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj",
         "projectName": "SistemaFacturacion.Modelo",
-        "projectPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj",
+        "projectPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj",
         "packagesPath": "C:\\Users\\DAMN1SELF\\.nuget\\packages\\",
-        "outputPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\obj\\",
+        "outputPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -194,8 +194,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj": {
-                "projectPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj"
+              "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj": {
+                "projectPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj"
               }
             }
           }
@@ -241,18 +241,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj": {
+    "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj",
+        "projectUniqueName": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj",
         "projectName": "SistemaFacturacion.Utilidades",
-        "projectPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj",
+        "projectPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj",
         "packagesPath": "C:\\Users\\DAMN1SELF\\.nuget\\packages\\",
-        "outputPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\obj\\",
+        "outputPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -301,18 +301,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion\\SistemaFacturacion.csproj": {
+    "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion\\SistemaFacturacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion\\SistemaFacturacion.csproj",
+        "projectUniqueName": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion\\SistemaFacturacion.csproj",
         "projectName": "SistemaFacturacion",
-        "projectPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion\\SistemaFacturacion.csproj",
+        "projectPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion\\SistemaFacturacion.csproj",
         "packagesPath": "C:\\Users\\DAMN1SELF\\.nuget\\packages\\",
-        "outputPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion\\obj\\",
+        "outputPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -334,17 +334,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Controlador\\SistemaFacturacion.Controlador.csproj": {
-                "projectPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Controlador\\SistemaFacturacion.Controlador.csproj"
+              "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Controlador\\SistemaFacturacion.Controlador.csproj": {
+                "projectPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Controlador\\SistemaFacturacion.Controlador.csproj"
               },
-              "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Datos\\SistemaFacturacion.Datos.csproj": {
-                "projectPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Datos\\SistemaFacturacion.Datos.csproj"
+              "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Datos\\SistemaFacturacion.Datos.csproj": {
+                "projectPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Datos\\SistemaFacturacion.Datos.csproj"
               },
-              "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj": {
-                "projectPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj"
+              "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj": {
+                "projectPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Modelo\\SistemaFacturacion.Modelo.csproj"
               },
-              "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj": {
-                "projectPath": "E:\\CIBERTEC_Proyecto_EFSRT3\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj"
+              "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj": {
+                "projectPath": "F:\\EFSRTIII-Grupo06\\CODIGO_FUENTE\\SistemaFacturacion.Utilidades\\SistemaFacturacion.Utilidades.csproj"
               }
             }
           }
@@ -407,7 +407,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

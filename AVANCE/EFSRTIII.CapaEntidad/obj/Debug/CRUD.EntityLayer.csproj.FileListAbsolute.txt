@@ -1,0 +1,11 @@
+C:\Users\Julio Pretell\Downloads\CRUD_CAPAS\CRUD_CAPAS\CRUD.EntityLayer\bin\Debug\CRUD.EntityLayer.dll
+C:\Users\Julio Pretell\Downloads\CRUD_CAPAS\CRUD_CAPAS\CRUD.EntityLayer\bin\Debug\CRUD.EntityLayer.pdb
+C:\Users\Julio Pretell\Downloads\CRUD_CAPAS\CRUD_CAPAS\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Julio Pretell\Downloads\CRUD_CAPAS\CRUD_CAPAS\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Julio Pretell\Downloads\CRUD_CAPAS\CRUD_CAPAS\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.dll
+C:\Users\Julio Pretell\Downloads\CRUD_CAPAS\CRUD_CAPAS\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.pdb
+C:\Users\DAMN1SELF\Downloads\CRUD_CAPAS1\CRUD_CAPAS\CRUD.EntityLayer\bin\Debug\CRUD.EntityLayer.dll
+C:\Users\DAMN1SELF\Downloads\CRUD_CAPAS1\CRUD_CAPAS\CRUD.EntityLayer\bin\Debug\CRUD.EntityLayer.pdb
+C:\Users\DAMN1SELF\Downloads\CRUD_CAPAS1\CRUD_CAPAS\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\DAMN1SELF\Downloads\CRUD_CAPAS1\CRUD_CAPAS\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.dll
+C:\Users\DAMN1SELF\Downloads\CRUD_CAPAS1\CRUD_CAPAS\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.pdb

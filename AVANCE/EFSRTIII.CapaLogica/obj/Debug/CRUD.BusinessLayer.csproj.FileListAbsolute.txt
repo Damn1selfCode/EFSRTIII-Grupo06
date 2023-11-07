@@ -1,0 +1,22 @@
+C:\Users\Julio Pretell\Downloads\CRUD_CAPAS\CRUD_CAPAS\CRUD.BusinessLayer\bin\Debug\CRUD.BusinessLayer.dll
+C:\Users\Julio Pretell\Downloads\CRUD_CAPAS\CRUD_CAPAS\CRUD.BusinessLayer\bin\Debug\CRUD.BusinessLayer.pdb
+C:\Users\Julio Pretell\Downloads\CRUD_CAPAS\CRUD_CAPAS\CRUD.BusinessLayer\bin\Debug\CRUD.DataLayer.dll
+C:\Users\Julio Pretell\Downloads\CRUD_CAPAS\CRUD_CAPAS\CRUD.BusinessLayer\bin\Debug\CRUD.EntityLayer.dll
+C:\Users\Julio Pretell\Downloads\CRUD_CAPAS\CRUD_CAPAS\CRUD.BusinessLayer\bin\Debug\CRUD.DataLayer.pdb
+C:\Users\Julio Pretell\Downloads\CRUD_CAPAS\CRUD_CAPAS\CRUD.BusinessLayer\bin\Debug\CRUD.EntityLayer.pdb
+C:\Users\Julio Pretell\Downloads\CRUD_CAPAS\CRUD_CAPAS\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Julio Pretell\Downloads\CRUD_CAPAS\CRUD_CAPAS\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Julio Pretell\Downloads\CRUD_CAPAS\CRUD_CAPAS\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.CopyComplete
+C:\Users\Julio Pretell\Downloads\CRUD_CAPAS\CRUD_CAPAS\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.dll
+C:\Users\Julio Pretell\Downloads\CRUD_CAPAS\CRUD_CAPAS\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.pdb
+C:\Users\DAMN1SELF\Downloads\CRUD_CAPAS1\CRUD_CAPAS\CRUD.BusinessLayer\bin\Debug\CRUD.BusinessLayer.dll
+C:\Users\DAMN1SELF\Downloads\CRUD_CAPAS1\CRUD_CAPAS\CRUD.BusinessLayer\bin\Debug\CRUD.BusinessLayer.pdb
+C:\Users\DAMN1SELF\Downloads\CRUD_CAPAS1\CRUD_CAPAS\CRUD.BusinessLayer\bin\Debug\CRUD.DataLayer.dll
+C:\Users\DAMN1SELF\Downloads\CRUD_CAPAS1\CRUD_CAPAS\CRUD.BusinessLayer\bin\Debug\CRUD.EntityLayer.dll
+C:\Users\DAMN1SELF\Downloads\CRUD_CAPAS1\CRUD_CAPAS\CRUD.BusinessLayer\bin\Debug\CRUD.DataLayer.pdb
+C:\Users\DAMN1SELF\Downloads\CRUD_CAPAS1\CRUD_CAPAS\CRUD.BusinessLayer\bin\Debug\CRUD.EntityLayer.pdb
+C:\Users\DAMN1SELF\Downloads\CRUD_CAPAS1\CRUD_CAPAS\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\DAMN1SELF\Downloads\CRUD_CAPAS1\CRUD_CAPAS\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DAMN1SELF\Downloads\CRUD_CAPAS1\CRUD_CAPAS\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.csproj.CopyComplete
+C:\Users\DAMN1SELF\Downloads\CRUD_CAPAS1\CRUD_CAPAS\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.dll
+C:\Users\DAMN1SELF\Downloads\CRUD_CAPAS1\CRUD_CAPAS\CRUD.BusinessLayer\obj\Debug\CRUD.BusinessLayer.pdb
